@@ -14,10 +14,12 @@ A simple C program that finds and prints the maximum element in an array. This p
 2. Open a terminal and navigate to the folder containing your file.
 3. Compile the code using GCC:
 
-##``bash
+## ``bash
+
 gcc max_element.c -o max_element ./max_element
 
-##expected output
+## expected output
+
 maximum element is: 45
 
 

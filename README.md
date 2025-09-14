@@ -2,6 +2,10 @@
 
 A simple C program that finds and prints the maximum element in an array. This project is beginner-friendly and demonstrates the use of arrays, loops, and conditional statements in C.
 
+## Author
+
+Akampurira Aisha
+
 ## Features
 
 - Finds the maximum value in a predefined array
